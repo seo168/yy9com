@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://YY9-india.com/sitemap.xml
